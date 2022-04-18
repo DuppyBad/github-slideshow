@@ -2,7 +2,6 @@
 # RouterSpace
 
 
-### Step 1
 
 Step 1 as always is to run an nmap scan
 ```
